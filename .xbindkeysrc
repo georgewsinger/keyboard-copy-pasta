@@ -1,0 +1,295 @@
+################################################
+# KEYBOARD COPY PASTA XBINDKEYS BINDS          #
+################################################
+#                                              #
+# Paste the following into your ~/.xbindkeysrc #
+#                                              # 
+################################################
+
+### KEYBOARD PASTER 1 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 1"
+   control + alt + 1
+
+"bash ~/keyboard-copy-pasta/paste.sh 1"
+   control + shift + 1
+
+### KEYBOARD PASTER 2 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 2"
+   control + alt + 2
+
+"bash ~/keyboard-copy-pasta/paste.sh 2"
+   control + shift + 2
+
+### KEYBOARD PASTER 3 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 3"
+   control + alt + 3
+
+"bash ~/keyboard-copy-pasta/paste.sh 3"
+   control + shift + 3
+
+### KEYBOARD PASTER 4 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 4"
+   control + alt + 4
+
+"bash ~/keyboard-copy-pasta/paste.sh 4"
+   control + shift + 4
+
+### KEYBOARD PASTER 5 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 5"
+   control + alt + 5
+
+"bash ~/keyboard-copy-pasta/paste.sh 5"
+   control + shift + 5
+
+### KEYBOARD PASTER 6 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 6"
+   control + alt + 6
+
+"bash ~/keyboard-copy-pasta/paste.sh 6"
+   control + shift + 6
+
+### KEYBOARD PASTER 7 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 7"
+   control + alt + 7
+
+"bash ~/keyboard-copy-pasta/paste.sh 7"
+   control + shift + 7
+
+### KEYBOARD PASTER 8 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 8"
+   control + alt + 8
+
+"bash ~/keyboard-copy-pasta/paste.sh 8"
+   control + shift + 8
+
+### KEYBOARD PASTER 9 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 9"
+   control + alt + 9
+
+"bash ~/keyboard-copy-pasta/paste.sh 9"
+   control + shift + 9
+
+### KEYBOARD PASTER 0 ###
+
+"bash ~/keyboard-copy-pasta/copy.sh 0"
+   control + alt + 0
+
+"bash ~/keyboard-copy-pasta/paste.sh 0"
+   control + shift + 0
+
+### KEYBOARD PASTER a ###
+
+"bash ~/keyboard-copy-pasta/copy.sh a"
+   control + alt + a
+
+"bash ~/keyboard-copy-pasta/paste.sh a"
+   control + shift + a
+
+### KEYBOARD PASTER b ###
+
+"bash ~/keyboard-copy-pasta/copy.sh b"
+   control + alt + b
+
+"bash ~/keyboard-copy-pasta/paste.sh b"
+   control + shift + b
+
+### KEYBOARD PASTER c ###
+
+"bash ~/keyboard-copy-pasta/copy.sh c"
+   control + alt + c
+
+"bash ~/keyboard-copy-pasta/paste.sh c"
+   control + shift + c
+
+### KEYBOARD PASTER d ###
+
+"bash ~/keyboard-copy-pasta/copy.sh d"
+   control + alt + d
+
+"bash ~/keyboard-copy-pasta/paste.sh d"
+   control + shift + d
+
+### KEYBOARD PASTER e ###
+
+"bash ~/keyboard-copy-pasta/copy.sh e"
+   control + alt + e
+
+"bash ~/keyboard-copy-pasta/paste.sh e"
+   control + shift + e
+
+### KEYBOARD PASTER f ###
+
+"bash ~/keyboard-copy-pasta/copy.sh f"
+   control + alt + f
+
+"bash ~/keyboard-copy-pasta/paste.sh f"
+   control + shift + f
+
+### KEYBOARD PASTER g ###
+
+"bash ~/keyboard-copy-pasta/copy.sh g"
+   control + alt + g
+
+"bash ~/keyboard-copy-pasta/paste.sh g"
+   control + shift + g
+
+### KEYBOARD PASTER h ###
+
+"bash ~/keyboard-copy-pasta/copy.sh h"
+   control + alt + h
+
+"bash ~/keyboard-copy-pasta/paste.sh h"
+   control + shift + h
+
+### KEYBOARD PASTER i ###
+
+"bash ~/keyboard-copy-pasta/copy.sh i"
+   control + alt + i
+
+"bash ~/keyboard-copy-pasta/paste.sh i"
+   control + shift + i
+
+### KEYBOARD PASTER j ###
+
+"bash ~/keyboard-copy-pasta/copy.sh j"
+   control + alt + j
+
+"bash ~/keyboard-copy-pasta/paste.sh j"
+   control + shift + j
+
+### KEYBOARD PASTER k ###
+
+"bash ~/keyboard-copy-pasta/copy.sh k"
+   control + alt + k
+
+"bash ~/keyboard-copy-pasta/paste.sh k"
+   control + shift + k
+
+### KEYBOARD PASTER l ###
+
+"bash ~/keyboard-copy-pasta/copy.sh l"
+   control + alt + l
+
+"bash ~/keyboard-copy-pasta/paste.sh l"
+   control + shift + l
+
+### KEYBOARD PASTER m ###
+
+"bash ~/keyboard-copy-pasta/copy.sh m"
+   control + alt + m
+
+"bash ~/keyboard-copy-pasta/paste.sh m"
+   control + shift + m
+
+### KEYBOARD PASTER n ###
+
+"bash ~/keyboard-copy-pasta/copy.sh n"
+   control + alt + n
+
+"bash ~/keyboard-copy-pasta/paste.sh n"
+   control + shift + n
+
+### KEYBOARD PASTER o ###
+
+"bash ~/keyboard-copy-pasta/copy.sh o"
+   control + alt + o
+
+"bash ~/keyboard-copy-pasta/paste.sh o"
+   control + shift + o
+
+### KEYBOARD PASTER p ###
+
+"bash ~/keyboard-copy-pasta/copy.sh p"
+   control + alt + p
+
+"bash ~/keyboard-copy-pasta/paste.sh p"
+   control + shift + p
+
+### KEYBOARD PASTER q ###
+
+"bash ~/keyboard-copy-pasta/copy.sh q"
+   control + alt + q
+
+"bash ~/keyboard-copy-pasta/paste.sh q"
+   control + shift + q
+
+### KEYBOARD PASTER r ###
+
+"bash ~/keyboard-copy-pasta/copy.sh r"
+   control + alt + r
+
+"bash ~/keyboard-copy-pasta/paste.sh r"
+   control + shift + r
+
+### KEYBOARD PASTER s ###
+
+"bash ~/keyboard-copy-pasta/copy.sh s"
+   control + alt + s
+
+"bash ~/keyboard-copy-pasta/paste.sh s"
+   control + shift + s
+
+### KEYBOARD PASTER t ###
+
+"bash ~/keyboard-copy-pasta/copy.sh t"
+   control + alt + t
+
+"bash ~/keyboard-copy-pasta/paste.sh t"
+   control + shift + t
+
+### KEYBOARD PASTER u ###
+
+"bash ~/keyboard-copy-pasta/copy.sh u"
+   control + alt + u
+
+"bash ~/keyboard-copy-pasta/paste.sh u"
+   control + shift + u
+
+### KEYBOARD PASTER v ###
+
+"bash ~/keyboard-copy-pasta/copy.sh v"
+   control + alt + v
+
+"bash ~/keyboard-copy-pasta/paste.sh v"
+   control + shift + v
+
+### KEYBOARD PASTER w ###
+
+"bash ~/keyboard-copy-pasta/copy.sh w"
+   control + alt + w
+
+"bash ~/keyboard-copy-pasta/paste.sh w"
+   control + shift + w
+
+### KEYBOARD PASTER x ###
+
+"bash ~/keyboard-copy-pasta/copy.sh x"
+   control + alt + x
+
+"bash ~/keyboard-copy-pasta/paste.sh x"
+   control + shift + x
+
+### KEYBOARD PASTER y ###
+
+"bash ~/keyboard-copy-pasta/copy.sh y"
+   control + alt + y
+
+"bash ~/keyboard-copy-pasta/paste.sh y"
+   control + shift + y
+
+### KEYBOARD PASTER z ###
+
+"bash ~/keyboard-copy-pasta/copy.sh z"
+   control + alt + z
+
+"bash ~/keyboard-copy-pasta/paste.sh z"
+   control + shift + z
